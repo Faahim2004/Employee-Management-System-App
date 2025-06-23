@@ -1,37 +1,12 @@
-# 🎯 Employee Management System Web App
+# React + Vite
 
-Developed a full-stack web application for managing employee data using Java Reactive Programming and real-time data integration. The application demonstrates end-to-end CRUD functionality with seamless connectivity between front-end and back-end components.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# 🛠️ Tech Stack
+Currently, two official plugins are available:
 
-Frontend : React.js
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Backend  : Spring Boot (Java)
+## Expanding the ESLint configuration
 
-Database : MySQL
-
-Tools    : Postman, VS Code, IntelliJ
-
-# ✨ Key Features:
-
-🧑‍💼 Employee CRUD – Create, View, Update & Delete employee records
-
-⚙️ RESTful API   – Powered by Spring Boot for scalable backend logic
-
-🔗 Connected Frontend & Backend – Live data sync using Axios
-
-📊 Persistent Storage – MySQL integration for real-time data
-
-🧪 API Testing   –   Seamless API debugging with Postman
-
-📱 Responsive UI   – Built with React and modern design practices
-
-🚀 Instant Updates – Automatic UI refresh on data operations
-
-🛡️ Robust Error Handling – Graceful fallback and validation
-
-🖱️ Interactive Components – Form-based employee management
-
-📦 Modular Codebase – Clean, maintainable, and scalable architecture
-
-
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
