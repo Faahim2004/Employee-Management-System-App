@@ -1,6 +1,6 @@
 # 🎯 Employee Management System Web App
 
-Developed a full-stack web application for managing employee data using Java Reactive Programming and real-time data integration. The application demonstrates end-to-end CRUD functionality with seamless connectivity between front-end and back-end components.
+Developed a full-stack web application for managing employee data using Java,Spring boot CRUD Operations , SQL, React framework and real-time data integration. The application demonstrates end-to-end CRUD functionality with seamless connectivity between front-end and back-end components.
 
 # ✨ Features
 
