@@ -4,27 +4,27 @@ Developed a full-stack web application for managing employee data using Java Rea
 
 # 🛠️ Tech Stack
 
-Frontend:React.js
+Frontend : React.js
 
-Backend: Spring Boot (Java)
+Backend  : Spring Boot (Java)
 
-Database: MySQL
+Database : MySQL
 
-Tools: Postman, VS Code, IntelliJ
+Tools    : Postman, VS Code, IntelliJ
 
 # ✨ Key Features:
 
 🧑‍💼 Employee CRUD – Create, View, Update & Delete employee records
 
-⚙️ RESTful API – Powered by Spring Boot for scalable backend logic
+⚙️ RESTful API   – Powered by Spring Boot for scalable backend logic
 
 🔗 Connected Frontend & Backend – Live data sync using Axios
 
 📊 Persistent Storage – MySQL integration for real-time data
 
-🧪 API Testing – Seamless API debugging with Postman
+🧪 API Testing   –   Seamless API debugging with Postman
 
-📱 Responsive UI – Built with React and modern design practices
+📱 Responsive UI   – Built with React and modern design practices
 
 🚀 Instant Updates – Automatic UI refresh on data operations
 
