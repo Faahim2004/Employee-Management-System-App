@@ -4,7 +4,7 @@ A full-stack Java application to manage employee records using Spring Boot, Reac
 ✨ Features
 🧑‍💼 Employee CRUD – Create, View, Update & Delete employee records
 ⚙️ RESTful API – Powered by Spring Boot for scalable backend logic
-🔗 Connected Frontend & Backend – Live data sync using Axios
+🔗 Connected Frontend & Backend – Live data sync using Axios 
 📊 Persistent Storage – MySQL integration for real-time data
 🧪 API Testing – Seamless API debugging with Postman
 📱 Responsive UI – Built with React and modern design practices
